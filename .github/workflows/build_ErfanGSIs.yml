@@ -15,9 +15,9 @@ on:
     
 env:
   ROM_URL:https://miuiver.com/nabu-v13-0-8/
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
-  TZ: Asia/Shanghai
+  ROM_NAME:miui
+  BUILD_TYPE:ab
+  TZ:Asia/Shanghai
 
 jobs:
   build:
